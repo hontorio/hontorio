@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **open-source projects, full-stack apps, and SaaS platforms**.  
 - 🤔 I’m looking for help with **advanced cloud architecture (Kubernetes, microservices) and scalable backend design**.  
 - 💬 Ask me about **JavaScript, React, Next.js, TailwindCSS, MongoDB, Appwrite, and building dashboards**.  
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/francispauloyinmiebi)** | **francispauloyinmiebi@gmail.com**   
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/francispauloyinmiebi)** | **francispauloyinmiebi@gmail.com** 
 - 🎲 Fun fact: I can debug faster with music 🎧 and I love blending tech with creativity!  
 
 <br>
